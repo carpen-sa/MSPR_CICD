@@ -5,6 +5,7 @@
 <body bgcolor=white>
 
 <table border="0">
+<th>Nom</th>
 <tr>
 <td align=center>
 <img src="images/tomcat.gif">
